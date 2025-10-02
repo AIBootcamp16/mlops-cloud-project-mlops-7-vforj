@@ -1,0 +1,8 @@
+2025-10-02 17:24:05.497 | INFO     | __main__:__init__:83 - Using device: cpu
+2025-10-02 17:24:05.498 | INFO     | __main__:run_pipeline:302 - === PyTorch Weather Prediction CD Pipeline ===
+
+2025-10-02 17:24:05.499 | INFO     | __main__:run_pipeline:306 - Step 1: Loading and preparing data...
+2025-10-02 17:24:05.501 | INFO     | __main__:load_and_prepare_data:87 - Loading data from processed_weather_data.csv
+2025-10-02 17:24:05.572 | INFO     | __main__:load_and_prepare_data:96 - Features: []
+2025-10-02 17:24:05.573 | INFO     | __main__:load_and_prepare_data:97 - Target: target
+2025-10-02 17:24:05.579 | ERROR    | __main__:run_pipeline:330 - Pipeline failed: ['target']
